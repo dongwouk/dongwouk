@@ -36,52 +36,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 </p>
 
-## 📂 Projects  
 
-### 🛠️ [HobbyHeavy](#)  
-**설명:** 취미를 공유하는 사람들을 연결하고, 모임 및 스케줄을 관리할 수 있는 플랫폼.  
-**기술 스택:**  
-- **Java (JDK 17)**  
-- **Apache 3.x, Apache Tomcat 10.0**  
-- **Spring Boot 3.3.5, Spring Security, JPA**  
-- **MySQL 8.x**  
-- **IntelliJ IDEA, MySQL WorkBench 8.0, Postman**  
-- **JWT, Validation, Swagger, JUnit, SendGrid, Lombok**  
-
-**역할:**  
-- RESTful API 설계 및 구현.  
-- 사용자 인증 및 권한 관리(Spring Security 및 JWT 활용).  
-- 스케줄 생성 및 알림 기능 개발.  
-- 비동기 작업 도입을 통한 성능 최적화.  
-- 데이터베이스 설계 및 최적화.  
-- 팀원들과 코드 리뷰를 통해 코드 품질 개선.  
-
-**성과:**  
-- **스케줄 생성 및 알림 기능** 구현 중 발생한 성능 문제를 해결하기 위해 비동기 작업을 도입하여 성능을 개선했습니다.  
-- 팀원들과의 **코드 리뷰**를 통해 협업의 중요성을 배우고, 이를 바탕으로 코드 품질을 개선했습니다.  
-- 이번 프로젝트를 통해 **성능 최적화** 및 **효율적인 팀 협업**에 대한 깊은 이해와 경험을 쌓았습니다.
-
-### 🛠️ [Bap Inning](#)  
-**설명:** KBO 리그 팬을 위한 경기 정보, 기록 조회 및 소셜 기능을 제공하는 종합 플랫폼.  
-**기술 스택:**  
-- **Java (JDK 1.8)**  
-- **HTML/CSS, JavaScript, Bootstrap**  
-- **Apache Tomcat 9.0**  
-- **Spring Boot 2.4.2, Spring Security, MyBatis**  
-- **Oracle Database 11g**  
-- **Eclipse, SQL Developer**  
-- **AWS S3, Jsoup**  
-
-**역할:**  
-- 세션 관리를 활용해 사용자 인증 및 권한 부여 기능 구현.  
-- 프론트엔드와 백엔드의 풀스택 개발을 통해 사용자 경험 최적화.  
-- AWS S3를 이용한 파일 업로드 및 관리 기능 구현.  
-- MyBatis를 활용한 데이터베이스 연동 및 최적화.  
-- HTML, CSS, JavaScript를 활용한 UI/UX 설계 및 개발.  
-
-**성과:**  
-- 이번 프로젝트를 통해 **Spring Boot, MyBatis, AWS S3** 등의 백엔드 기술을 활용하며 실무 경험을 쌓을 수 있었습니다.  
-- **팀원들과의 협업** 과정에서 문제를 해결하고 서로 피드백을 주고받으며 **코드 품질과 개발 역량**을 한 단계 끌어올릴 수 있었습니다.
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongwouk&show_icons=true&theme=radical)  
