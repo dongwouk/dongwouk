@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=40&fontColor=ffffff)
 
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=40&fontColor=ffffff)
+<div align="center">
 
 # 👋 안녕하세요!  
 백엔드 개발자를 목표로 성장하고 있는 **권동욱**입니다.
