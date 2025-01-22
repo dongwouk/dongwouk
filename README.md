@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 </p>
 
-123
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongwouk&show_icons=true&theme=radical)  
